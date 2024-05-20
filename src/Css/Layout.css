@@ -1,0 +1,12 @@
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.item {
+  flex: 1 0 25%; /* Adjust the width as needed */
+  margin: 5px; /* Adjust the margin between items as needed */
+  text-align: center;
+  padding: 20px;
+}

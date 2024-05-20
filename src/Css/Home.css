@@ -1,0 +1,11 @@
+
+.home {
+    background-color: #000; /* Black background color */
+    color: #fff; /* White text color */
+    padding: 0px; /* Adjust padding as needed */
+    text-align: center; /* Center the text */
+    width: 100%; /* Make the banner span the entire width of the page */
+    position: flex; /* Fix the position of the banner */
+    top: 0; /* Position it at the top of the page */
+    z-index: 2; /* Ensure the banner is above other elements on the page */
+  }
